@@ -35,7 +35,7 @@ The script:
 ## Files
 
 ```text
-2D Projects.py
+2D Project.py
 ```
 
 The main Python script that creates the folder structure.
@@ -70,7 +70,7 @@ The easiest way to use it:
 You can also run the Python script directly from Command Prompt or PowerShell:
 
 ```bash
-python "2D Projects.py"
+python "2D Project.py"
 ```
 
 Then enter the client/project name when prompted.
