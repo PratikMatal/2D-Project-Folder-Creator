@@ -41,7 +41,7 @@ The script:
 The main Python script that creates the folder structure.
 
 ```text
-Create 2D Project.bat
+2D Project.bat
 ```
 
 A Windows batch file that allows you to launch the Python script by simply double-clicking it.
